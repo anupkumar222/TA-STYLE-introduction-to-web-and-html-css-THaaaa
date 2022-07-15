@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(34, 34, 201);  
+  }
+  figure{
+    text-align: center;
+  }
+  .resume {
+    text-align: center;
+      color: white;
+      font-size: 35px;
+  }
+  .joker{
+    text-align: center;
+      color: white;
+      font-size: medium;
+  }
+  .killer {
+      font-size: 30px;
+      color: green;
+  }
+  .voter {
+      font-size: 20px;
+      color: aliceblue;
+  }
+  .hat{
+      color: white;
+      font-size: 17px;
+  }
+  .jack{
+      color: red;
+      margin: 0 10px;
+  }
+  .nav{
+    text-align: center;
+  }
